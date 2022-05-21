@@ -22,7 +22,7 @@ A brief description of what this project does and who it's for
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [Akash Mukherjee](https://github.com/AkashMukherjee98)
 
 
 ## API Reference
